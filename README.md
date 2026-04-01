@@ -139,4 +139,4 @@ This project demonstrates how FreeRTOS enables efficient real-time monitoring an
 
 ## 🔗 GitHub Repository
 
-https://github.com/PallaviLakumalla/Fall_Detection_Simulator_Using_RTOs
+https://github.com/PallaviLakumalla/Fall_Detection_Simulator_Using_RTOS
